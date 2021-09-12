@@ -8,9 +8,9 @@ support me ==> https://paypal.me/qKoro
 -------- 
 iGeo-Calculator est un calculateur de formes géométriques, il peut calculer la surface / le périmètre,
 et en V2, il peut calculer le volume. Pour l'instant, le programme est en français, mais en V2 qui sortira
-dans 2 semaines, le programme sera disponible en anglais. Si vous voulez me soutenir
+dans 2 semaines, le programme sera disponible en anglais. 
 
-==> https://paypal.me/qKoro
+Si vous voulez me soutenir ==> https://paypal.me/qKoro
 
 prerequisite
 
