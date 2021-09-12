@@ -14,8 +14,8 @@ dans 2 semaines, le programme sera disponible en anglais. Si vous voulez me sout
 
 prerequisite
 
-import sys
-import time
-from tqdm import tqdm
-from colorama import *
-import os
+import sys//
+import time//
+from tqdm import tqdm//
+from colorama import *//
+import os//
