@@ -1,3 +1,4 @@
+![Capture d’écran 2021-09-12 094300](https://user-images.githubusercontent.com/87548940/132978186-757ac946-6480-460d-abe9-105bd5a13e27.png)
 # iGeo-Calculator
 iGeo-Calculator is geometric shapes calculator, it can calculate area / perimeter,
 and in V2 it can calculate volume. For now, the program is in French, but in V2 which
